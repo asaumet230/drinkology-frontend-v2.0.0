@@ -1,0 +1,23 @@
+# Node Modules:
+node_modules/
+
+# Git:
+.git
+.gitignore
+
+# Docker:
+Dockerfile
+.dockerignore
+docker-compose.yml
+docker-compose.dev.yml
+docker-compose.prod.yml
+
+# Readme:
+README.md
+
+# Env:
+.env.template
+
+# Next:
+.next
+npm-debug.log
